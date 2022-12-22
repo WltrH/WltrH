@@ -1,4 +1,5 @@
 ## WhoamI  💾
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-hornig/)   [![General](https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:ghornig@protonmail.ch)
 
 Hi! and welcome to my profile.
 
@@ -9,7 +10,7 @@ Since the beginning of 2022 I decided to go back to the world of Blockchain deve
 
 
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-hornig/)   [![General](https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:ghornig@protonmail.ch)
+
 
 ## Languages
 ### Data:
