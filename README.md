@@ -43,7 +43,7 @@ Since the beginning of 2022 I decided to go back to the world of Blockchain deve
 ---
 <details>
     <summary>
-        CV détaillé
+       My detailed CV
     </summary>
-  
+    
  </details>
