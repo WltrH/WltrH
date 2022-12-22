@@ -37,7 +37,7 @@ Since the beginning of 2022 I decided to go back to the world of Blockchain deve
 ### Languages:
 🇬🇧 🇫🇷 🇯🇵
 
-| Quelques statistiques | | |
+| statistics | | |
 | :---: |:---:| :---:|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WltrH&theme=radical&hide_langs_below=8&count_private=true)     |  | ![](https://github-readme-stats.vercel.app/api?username=WltrH&show_icons=true&theme=radical&count_private=true) |
 ---
