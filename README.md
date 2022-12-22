@@ -1,8 +1,10 @@
 ## WhoamI  💾
 
-Hi! and welcome in my profil. 
+Hi! and welcome to my profile.
 
-Since more 10 years I worked in different field as IT Manager I'm actually a Junior Blockchain Developer.
+For more than 10 years I have been working as an IT Manager in different areas. 
+
+Since the beginning of 2022 I decided to go back to the world of Blockchain development and Data analysis.
 
 
 
