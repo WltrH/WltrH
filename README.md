@@ -12,7 +12,7 @@ Since the beginning of 2022 I decided to go back to the world of Blockchain deve
 
 
 
-## Languages
+## IT Languages
 ### Data:
 ![General badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)    ![General badge](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)    ![General Badge](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)    ![General badge](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)    
 
@@ -25,6 +25,9 @@ Since the beginning of 2022 I decided to go back to the world of Blockchain deve
 
 ### OS:
 ![General badge](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)    ![General badge](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+
+### Languages:
+🇬🇧 🇫🇷 🇯🇵
 
 | Quelques statistiques | | |
 | :---: |:---:| :---:|
