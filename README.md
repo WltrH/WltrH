@@ -4,7 +4,7 @@
 
 Hi! and welcome to my profile.
 
-Former Developer turned Manager, I have worked for more than 10 years as an IT manager in various fields and 3 years as a developer
+Former Developer turned Manager, I have worked for more than 10 years as an IT manager in various fields and 3 years as a developer.
 
 Since the beginning of 2022 I decided to go back to the world of Blockchain development and Data analysis.
 
@@ -17,33 +17,33 @@ Since the beginning of 2022 I decided to go back to the world of Blockchain deve
 
 ## PROFESSIONAL EXPERIENCES
 
-### 2022 - Today| Blockchain Developer | Open to work
+### 2022 - Today | Blockchain Developer | Open to work
 
-Development of smart contract in solidity
+Development of smart contract in solidity.
 
 ### 2021 - 2022 | Product Manager | Keolis Group
 
-Work on the development and deployment of the Digital ecosystem for transport management at the request of the Keolis group and his subsidiaries
+Work on the development and deployment of the Digital ecosystem for transport management at the request of the Keolis group and his subsidiaries.
 
 ### 2018 - 2021 | Product Owner Big Data | Leadeal Marketing
 
-Creation and implementation of Single Customer Repositories (RCU) in different fields (ransport, retail, health, mass distribution)
+Creation and implementation of Single Customer Repositories (RCU) in different fields (ransport, retail, health, mass distribution) for Marketing campaign for Marketing campaigns.
 
 ### 2017 - 2018 | IT Manager | NBB-Lease
 
-Managment of all the Information System (Database, Management method, Automatisation, etc...)
+Managment of all the Information System (Database, Management method, Automatisation, etc...).
 
 ### 2016 - 2017 | Planon Consultant | Planon France
 
-Integration of the Planon software package
+Integration of the Planon software package.
 
 ### 2014 - 2016 | HRIS Project Manager | BPCE Group
 
-Creation of a unique identifier for the 130,000 Group employees
+Creation of a unique identifier for the 130,000 Group employees.
 
 ### 2014 | Database developer | BPCE SA
 
-Creation of a DMS for the HR department to centralize and automate documents related to human resources (employer certificate, sick leave, work attestation, etc.)
+Creation of a DMS for the HR department to centralize and automate documents related to human resources (employer certificate, sick leave, work attestation, etc.).
 
 ## FORMATION
 
@@ -51,11 +51,11 @@ Creation of a DMS for the HR department to centralize and automate documents rel
 
 ### 2023 - Data Analyst - La Manu - Versailles (In progress)
 
-Formation in Data analyse and visualisation
+Formation in Data analyse and visualisation.
 
 ### 2021 - Certified Trainer PCM - Khaler Communication inc. - Paris
 
-Teaching of the Process Communication model
+Teaching of the Process Communication model.
 
 ### 2018 - AXELOS Global Best Practice Certification ITIL V4 ® - Paris
 
@@ -71,23 +71,23 @@ ID GR633096194GH
 
 ### 2022 - Blockchain Developer - Alyra - Paris
 
-Development of smart contract and Dapp
+Development of smart contract and Dapp.
 
 ### 2016 - Master Management & Advise on Information System - ESGI Paris - Paris
 
-Information Technology Management and Strategy
+Information Technology Management and Strategy.
 
 ### 2014 - Bachelor Analyze and Conception in Information and decision Systems - CNAM Paris - Paris
 
-Database conception with web development
+Database conception with web development.
 
 ### 2012 - DUT Information Technoligy - University Descartes Paris - Paris
 
-Information Technology Management (development)
+Information Technology Management (development).
 
 ### 1999 - Caregiver - IFSI CHU Meaux - Meaux
 
-Personal Care Delivery Course
+Personal Care Delivery Courses.
 
  </details>
 
