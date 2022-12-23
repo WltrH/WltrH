@@ -2,11 +2,11 @@
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-hornig/) [![General](https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:ghornig@protonmail.ch)
 
-Hello and welcome to my profile.
+Hi! and welcome to my profile.
 
-Former Developer turned Manager, I worked for less than 10 years as an IT manager in different fields and 3 years as a developer.
+Former Developer turned Manager, I have worked for more than 10 years as an IT manager in various fields and 3 years as a developer.
 
-Since the beginning of 2022, I decided to come back to the world of development and more precisely in the fields of Blockchain and data analysis.
+Since the beginning of 2022 I decided to go back to the world of Blockchain development and Data analysis.
 
 ---
 
@@ -27,7 +27,7 @@ Work on the development and deployment of the Digital ecosystem for transport ma
 
 ### 2018 - 2021 | Product Owner Big Data | Leadeal Marketing
 
-Creation and implementation of Single Customer Repositories (RCU) in different fields (ransport, retail, health, mass distribution) for Marketing campaign for Marketing campaigns.
+Creation and implementation of Single Customer Repositories (RCU) in different fields (ransport, retail, health, mass distribution).
 
 ### 2017 - 2018 | IT Manager | NBB-Lease
 
@@ -81,7 +81,7 @@ Information Technology Management and Strategy.
 
 Database conception with web development.
 
-### 2012 - DUT Information Technology - University Descartes Paris - Paris
+### 2012 - DUT Information Technoligy - University Descartes Paris - Paris
 
 Information Technology Management (development).
 
@@ -97,7 +97,7 @@ Personal Care Delivery Courses.
 
 ### Blockchain/Web3:
 
-![General badge](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white) ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![General badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![General badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![General badge](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white) ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![General badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![General badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![General badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ### Data/visualization:
 
