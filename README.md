@@ -103,6 +103,10 @@ Personal Care Delivery Course
 
 ![General badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![General badge](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white) ![General Badge](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![General badge](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white) ![General Badge](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
+### In progress:
+
+![General badge](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+
 ## Tools:
 
 ![General badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![General badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black) ![General badge](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
@@ -123,3 +127,4 @@ Personal Care Delivery Course
 | :---------------------------------------------------------------------------------------------------------------------------: | :-: | :-------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WltrH&theme=radical&hide_langs_below=8&count_private=true) |     | ![](https://github-readme-stats.vercel.app/api?username=WltrH&show_icons=true&theme=radical&count_private=true) |
 
+---
