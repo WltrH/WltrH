@@ -81,7 +81,7 @@ Information Technology Management and Strategy.
 
 Database conception with web development.
 
-### 2012 - DUT Information Technoligy - University Descartes Paris - Paris
+### 2012 - DUT Information Technology - University Descartes Paris - Paris
 
 Information Technology Management (development).
 
