@@ -2,11 +2,11 @@
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-hornig/) [![General](https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:ghornig@protonmail.ch)
 
-Hi! and welcome to my profile.
+Hello and welcome to my profile.
 
-Former Developer turned Manager, I have worked for more than 10 years as an IT manager in various fields and 3 years as a developer.
+Former Developer turned Manager, I worked for more than 10 years as an IT manager in different fields and 3 years as a developer.
 
-Since the beginning of 2022 I decided to go back to the world of Blockchain development and Data analysis.
+Since the beginning of 2022, I decided to come back to the world of development and more precisely in the fields of Blockchain and data analysis.
 
 ---
 
