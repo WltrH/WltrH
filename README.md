@@ -4,9 +4,9 @@
 
 Hi! and welcome to my profile.
 
-Former Developer turned Manager, I have worked for more than 10 years as an IT manager in various fields and 3 years as a developer.
+Former Developer turned Manager, I worked for almost 10 years as an IT Manager in different areas and 3 years as a Developer.
 
-Since the beginning of 2022 I decided to go back to the world of Blockchain development and Data analysis.
+Since the beginning of the year 2022 I decided to come back to the world of development especially in the Blockchain and data analysis environments.
 
 ---
 
@@ -81,7 +81,7 @@ Information Technology Management and Strategy.
 
 Database conception with web development.
 
-### 2012 - DUT Information Technoligy - University Descartes Paris - Paris
+### 2012 - DUT Information Technology - University Descartes Paris - Paris
 
 Information Technology Management (development).
 
