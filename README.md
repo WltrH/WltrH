@@ -4,7 +4,7 @@
 
 Hello and welcome to my profile.
 
-Former Developer turned Manager, I worked for more than 10 years as an IT manager in different fields and 3 years as a developer.
+Former Developer turned Manager, I worked for less than 10 years as an IT manager in different fields and 3 years as a developer.
 
 Since the beginning of 2022, I decided to come back to the world of development and more precisely in the fields of Blockchain and data analysis.
 
