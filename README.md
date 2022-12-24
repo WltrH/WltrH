@@ -12,7 +12,7 @@ After 3 years as a developer, my career led me to project management where I wor
 
 Since the beginning of the year 2022 I decided to come back to the world of development especially in the Blockchain and data analysis environments.
 
-I would like to be able to combine Data and Blockchain if possible in my future job. I am convinced that these skills in these two fields, which are dear to me, will be indispensable in the near future 
+I would like to be able to combine Data and Blockchain if possible in my future job. I am convinced that these skills in these two fields, which are dear to me, will be indispensable in the near future.
 
 ---
 
