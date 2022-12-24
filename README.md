@@ -49,7 +49,7 @@ Creation of a DMS for the HR department to centralize and automate documents rel
 
 ## Certification:
 
-### 2023 - Data Analyst - La Manu - Versailles (In progress)
+### 2023 - Data Scientist - La Manu - Versailles (In progress)
 
 Formation in Data analyse and visualisation.
 
