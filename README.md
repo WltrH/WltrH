@@ -4,7 +4,11 @@
 
 Hi! and welcome to my profile.
 
-Former Developer turned Manager, I worked for almost 10 years as an IT Manager in different areas and 3 years as a Developer.
+I started my career as an orderly in the hospitals of Paris. In 2000, I created a computer association to allow people who wanted to learn to master their machine a little to learn the basics and advanced functions of their OS and software.
+
+In 2009, I took the plunge and started studying again to become a developer.
+
+After 3 years as a developer, my career led me to Project Management where I worked for almost 10 years as a Project Manager and lately as a Product Manager in different fields.
 
 Since the beginning of the year 2022 I decided to come back to the world of development especially in the Blockchain and data analysis environments.
 
