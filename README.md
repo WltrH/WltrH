@@ -29,7 +29,7 @@ Development of smart contract in solidity.
 
 ### 2021 - 2022 | Product Manager | Keolis Group
 
-Work on the development and deployment of the Digital ecosystem for transport management at the request of the Keolis group and his subsidiaries.
+Work on the development and deployment of the Digital ecosystem for transport management at the request of the Keolis group and his french subsidiaries.
 
 ### 2018 - 2021 | Product Owner Big Data | Cyllene Group
 
