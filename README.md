@@ -164,6 +164,14 @@ Don't hesitate to follow me, channel in French most of the time
 
 Feudal history of Japan during the Sengoku period
 
+---
+
+### Language
+
+Learn Japanese 🇯🇵 and try to retain as many kanji :u7981: as possible
+
+---
+
 </details>
 
 |                                                          statistics                                                           |     |                                                                                                                 |
@@ -172,6 +180,13 @@ Feudal history of Japan during the Sengoku period
 
 ---
 
+<details>
+    <summary>
+       Visitors
+    </summary>
+
 ### Number of visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/{WltrH}/count.svg)
+
+</details>
