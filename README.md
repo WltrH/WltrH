@@ -133,6 +133,8 @@ Personal Care Delivery Courses.
 
 🇬🇧 🇫🇷 🇯🇵
 
+---
+
 <details>
     <summary>
        My Hobbies
@@ -170,9 +172,9 @@ Feudal history of Japan during the Sengoku period
 
 Learn Japanese 🇯🇵 and try to retain as many kanji :u7981: as possible
 
----
-
 </details>
+
+---
 
 |                                                          statistics                                                           |     |                                                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-: | :-------------------------------------------------------------------------------------------------------------: |
