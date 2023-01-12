@@ -178,7 +178,7 @@ Learn Japanese 🇯🇵 and try to retain as many kanji :u7981: as possible
 
 |                                                          statistics                                                           |     |                                                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-: | :-------------------------------------------------------------------------------------------------------------: |
-| ![](github-readme-stats-eta-wine.vercel.app/api/top-langs/?username=WltrH&theme=radical&hide_langs_below=8&count_private=true) |     | ![](github-readme-stats-eta-wine.vercel.app/api?username=WltrH&show_icons=true&theme=radical&count_private=true) |
+| ![](github-readme-stats.vercel.app/api/top-langs/?username=WltrH&theme=radical&hide_langs_below=8&count_private=true) |     | ![](github-readme-stats.vercel.app.app/api?username=WltrH&show_icons=true&theme=radical&count_private=true) |
 
 ---
 
