@@ -31,7 +31,7 @@ Development of smart contract in solidity.
 
 Work on the development and deployment of the Digital ecosystem for transport management at the request of the Keolis group and his french subsidiaries.
 
-### 2018 - 2021 | Product Owner Big Data | Cyllene Group
+### 2018 - 2021 | Data Analyst/Product Owner Big Data | Cyllene Group
 
 Creation and implementation of Single Customer Repositories (RCU) in different fields (ransport, retail, health, mass distribution).
 
