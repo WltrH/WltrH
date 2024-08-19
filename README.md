@@ -23,6 +23,10 @@ I would like to be able to combine Data and Blockchain if possible in my future 
 
 ## PROFESSIONAL EXPERIENCES
 
+### 2024 - Today | Senior IT Manager | Open to work
+
+### 2022 - 2024 | IT Manager | France Networks
+
 ### 2022 - Today | Blockchain Developer | Open to work
 
 Development of smart contract in solidity.
