@@ -1,31 +1,37 @@
-## WhoamI 💾
+## Who am I 💾
+
+Hello and welcome to my profile.
+
+I began my career as a hospital orderly in Paris. In 2000, I set up a computer association to enable people who wanted to learn a little about their machines to learn the basics and advanced functions of their OS and software.
+
+In 2009, I took the plunge and went back to school to become a developer.
+
+After 3 years as a developer, my career took me into project management, where I worked for almost 10 years as a project manager, product manager and, most recently, IT manager.
+
+In 2022, I decided to return to the technical world, in particular by learning Blockchain development and Data Analysis to bring myself up to date on development tools.
+
+Now a Senior IT Manager, I'd like to be able to draw on my previous technical and managerial experience to take on new challenges as a Chief Technology Officer or Chief Information Officer.
+
+You can contact me here
 
 [![General](https://img.shields.io/badge/ProtonMail-8B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto:ghornig@protonmail.ch)
 
-Hi! and welcome to my profile.
-
-I started my career as an orderly in the hospitals of Paris. In 2000, I created a computer association to allow people who wanted to learn to master their machine a little to learn the basics and advanced functions of their OS and software.
-
-In 2009, I took the plunge and started studying again to become a developer.
-
-After 3 years as a developer, my career led me to project management where I worked for almost 10 years as a Project Manager and lately as a Product Manager in different fields.
-
-Since the beginning of the year 2022 I decided to come back to the world of development especially in the Blockchain and data analysis environments.
-
-I would like to be able to combine Data and Blockchain if possible in my future job. I am convinced that these skills in these two fields, which are dear to me, will be indispensable in the near future.
-
 ---
 
-<details> 
-    <summary>
-        My resume
-    </summary>
 
 ## PROFESSIONAL EXPERIENCES
 
 ### 2024 - Today | Senior IT Manager | Open to work
 
+Actively searching
+
+### 2023 - Today | Business Consultant Volunteer | Kokorico Foundation
+
+Assessment of the foundation's needs, data analysis, advice and proposals for appropriate solutions to achieve its objectives.
+
 ### 2022 - 2024 | IT Manager | France Networks
+
+Responsible for implementing and maintaining IT infrastructure
 
 ### 2022 - Today | Blockchain Developer | Open to work
 
@@ -103,24 +109,31 @@ Information Technology Management (development).
 
 Personal Care Delivery Courses.
 
- </details>
 
 ---
 
-## IT Languages
+## IT Skills
 
-### Data/visualization
+### Languages
 
-![General badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![General badge](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white) ![General Badge](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![General Badge](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![General badge](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white) ![General Badge](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white) ![General Badge](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black) 
+![General_Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![General_Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![General badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![General badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![General badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![General badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+
+### Data
+
+![General Badge](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![General_Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![General_Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![General_Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Visualization
+
+![General badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![General badge](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white) ![General Badge](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![General badge](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white) ![General Badge](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white) ![General Badge](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black) 
 
 ### Stats
 
-![General Badge](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white) ![General Badge](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![General Badge](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![General Badge](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white) ![General Badge](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![General Badge](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white) ![General_Badge](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![General_badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![General Badge](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ### Blockchain/Web3
 
-![General badge](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white) ![General badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![General badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![General badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![General badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-
+![General badge](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white) 
 ### Deployment
 ![General Badge](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) ![General badge](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white) ![General badge](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white) 
 
@@ -159,23 +172,7 @@ Owner of:
 
 - 2 TOFU 65%
 - 1 Melody 65%
-- 1 Odin 75% (coming soon)
-
----
-
-### Streaming
-
-To build my keyboards, develop my personal projects or talk about new technologies
-
-Don't hesitate to follow me, channel in French most of the time
-
-[![General badge](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/tanukeys)
-
----
-
-### History
-
-Feudal history of Japan during the Sengoku period
+- 1 Odin 75%
 
 ---
 
