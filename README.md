@@ -33,7 +33,7 @@ Assessment of the foundation's needs, data analysis, advice and proposals for ap
 
 Responsible for implementing and maintaining IT infrastructure
 
-### 2022 - Today | Blockchain Developer | Open to work
+### 2022 - Today | Blockchain Developer
 
 Development of smart contract in solidity.
 
