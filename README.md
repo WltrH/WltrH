@@ -65,13 +65,13 @@ Creation of a DMS for the HR department to centralize and automate documents rel
 
 ## Certification
 
-### 2023 - Data Scientist - La Manu - Versailles (In progress)
+### 2023 - Data Scientist - La Manu - Versailles
 
-Formation in Data analyse and visualisation.
+Training in data science, analysis and visualisation
 
 ### 2022 - Information Technology Skills Certificate - Paris
 
-Define and implement an innovation project within an organisation - Paris
+Define and implement an innovation project within an organisation.
 
 ### 2021 - Certified Trainer PCM - Khaler Communication inc. - Paris
 
