@@ -181,9 +181,10 @@ Owner of:
 
 ---
 
-### Language
+### Sport
 
-Learn Japanese 🇯🇵 and try to retain as many kanji :u7981: as possible
+- Muay Thai
+- Motor sports
 
 </details>
 
